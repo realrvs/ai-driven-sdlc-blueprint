@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/status-production--ready-green)
 # 🗺️ Blueprint: AI-driven SDLC с импортозамещением
 
 **Статус:** Production-Ready. Готов к промышленному внедрению в enterprise-контуре с требованиями импортозамещения, 152-ФЗ и жёсткого контроля затрат.
